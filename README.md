@@ -1,1 +1,3 @@
-# 21052776
+TO RUN IT 
+-> npm install
+-> npm run dev
